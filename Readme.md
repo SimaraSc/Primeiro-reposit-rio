@@ -13,4 +13,4 @@ Antes de clicar em :wq deve-se clicar no ESC
 verificar outras funções no bloco de notas
 :)
 jbjbhjb
-
+kokoj
