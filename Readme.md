@@ -12,4 +12,5 @@ para abrir arquivo "vi Readme.md" novamente e fazer os mesmos comandos anteriore
 Antes de clicar em :wq deve-se clicar no ESC
 verificar outras funções no bloco de notas
 :)
-
+jbjbhjb
+kokoj
