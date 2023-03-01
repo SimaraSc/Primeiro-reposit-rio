@@ -1,0 +1,36 @@
+for (let contador = 0; contador < 9; contador++) {
+    console.log(contador);
+}
+
+/*
+contador = 0; atualiza contador = 1;
+verificar se o contador é menor que 9 (true => 0)
+contador = 1; atualiza contador = 2; true => 1
+contador = 2; atualiza contador = 3; true => 2
+contador = 3; atualiza contador = 4; true => 3
+.
+.
+.
+contador = 6; atualiza contador = 7; true => 6
+contador = 7; atualiza contador = 8; true => 7
+contador = 8; atualiza contador = 9; true => 8
+contador = 9; atualiza contador = 10; false
+
+contador++ => contador = é pegar o valor que tenho no momento, guarde na variável
+para somar a 1 e substituir na variável
+
+contador++ = contador + 1
+contador-- = contador - 1
+contador+=2 => contador + 2
+contador+10 => contador + 10
+contador*=2 => contador *2 
+
+*/
+
+for (let contador = 5; contador < 11; contador++) {
+    console.log(contador);
+}
+
+for (let contador = 5; contador <= 10; contador++) {
+    console.log(contador);
+}
